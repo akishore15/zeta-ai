@@ -1,0 +1,34 @@
+{
+  "name": "Zeta.ai",
+  "version": "1.0.0",
+  "description": "Zeta.ai is an AI that uses DeepSeek R1 32B to get results effectively to automate a simple Ollama prompt using Bash.",
+  "main": "script.js", // Entry point of your application
+  "scripts": {
+    "build": "grunt", // Command to run Grunt
+    "test": "echo \"Error: no test specified\" && exit 1" // Placeholder for tests
+  },
+  "keywords": [
+    "grunt",
+    "nodejs",
+    "ollama",
+    "artificial-intelligence",
+    "ai",
+    "html",
+    "javascript",
+    "bash",
+  ],
+  "author": "@akishore15",
+  "dependencies": {
+    "Code Editor",
+    "20GB",
+    "HTML",
+    "JavaScript",
+    "Web Browser",
+  },
+  "devDependencies": {
+    "grunt": "^1.5.0", // Grunt itself
+  },
+  "engines": {
+    "node": ">=18.x <21.x"
+  }
+}
